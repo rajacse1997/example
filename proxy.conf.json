@@ -1,0 +1,7 @@
+{  
+    "/api/*": {  
+       "target": "https://jobsqared.herokuapp.com/jobs/",  
+       "secure": false,  
+       "logLevel": "debug"  
+    }  
+ }  
